@@ -1,0 +1,5 @@
+<cu-custom bgColor="bg-blue">
+  <view slot="content">厦大重开模拟器</view>
+</cu-custom>
+
+<text>此次为测试</text>
